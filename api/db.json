@@ -1,0 +1,266 @@
+{
+  "questions": [
+    {
+      "id": "61695b19-87cb-43b3-8501-dc947a0b2ab7",
+      "textType": [
+        {
+          "text": "Sevdiğin meyveler?"
+        },
+        {
+          "type": "multi-select"
+        }
+      ],
+      "options": [
+        {
+          "selection": "Çilek"
+        },
+        {
+          "selection": "Muz"
+        },
+        {
+          "selection": "Portakal"
+        },
+        {
+          "selection": "Elma"
+        }
+      ]
+    },
+    {
+      "id": "6daf814e-920e-4a6a-bd61-3495f8efacc1",
+      "textType": [
+        {
+          "text": "Favori sporun?"
+        },
+        {
+          "type": "single-select"
+        }
+      ],
+      "options": [
+        {
+          "selection": "Futbol"
+        },
+        {
+          "selection": "Basketbol"
+        },
+        {
+          "selection": "Tenis"
+        },
+        {
+          "selection": "Bowling"
+        }
+      ]
+    },
+    {
+      "id": "fffa0673-3490-4be0-b30c-1cf30a3c7181",
+      "textType": [
+        {
+          "text": "İnsanlık hakkındaki düşüncelerin?"
+        },
+        {
+          "type": "open-ended"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "cf44e7a6-35aa-4a5a-a0de-a798f6569648",
+      "textType": [
+        {
+          "text": "Hayat nasıl?"
+        },
+        {
+          "type": "open-ended"
+        }
+      ],
+      "options": []
+    },
+    {
+      "id": "15d7c0b2-f006-41d5-8b72-0ecf0c9358c7",
+      "textType": [
+        {
+          "text": "Zaman gösteren şeyler?"
+        },
+        {
+          "type": "single-select"
+        }
+      ],
+      "options": [
+        {
+          "selection": "Saat"
+        },
+        {
+          "selection": "Telefon"
+        },
+        {
+          "selection": "Araba Konsolu"
+        },
+        {
+          "selection": "Televizyon Ekranı"
+        }
+      ]
+    },
+    {
+      "id": "3992da96-77ba-4c81-92ed-cb106b291247",
+      "textType": [
+        {
+          "type": "single-select"
+        },
+        {
+          "text": "Dünya nasıldır?"
+        }
+      ],
+      "options": [
+        {
+          "selection": "İyi"
+        },
+        {
+          "selection": "Kötü"
+        },
+        {
+          "selection": "Yuvarlak"
+        },
+        {
+          "selection": "Düz"
+        }
+      ]
+    }
+  ],
+  "answers": [
+    {
+      "userId": "22a59ea6-9ad5-4e34-93d3-0899d3b9ead3",
+      "answers": [
+        {
+          "id": "2318c7b1-00ee-4ce3-a5d7-8c5e3c95fe23",
+          "questionId": "61695b19-87cb-43b3-8501-dc947a0b2ab7",
+          "value": [
+            "Çilek",
+            "Muz"
+          ]
+        },
+        {
+          "id": "35af24bf-72a7-4ca1-8dc5-4fc4c75f65f0",
+          "questionId": "6daf814e-920e-4a6a-bd61-3495f8efacc1",
+          "value": "Futbol"
+        },
+        {
+          "id": "15aadd9b-73f7-4b7c-acd3-71b23b35fd6b",
+          "questionId": "fffa0673-3490-4be0-b30c-1cf30a3c7181",
+          "value": "İyi."
+        },
+        {
+          "id": "1ecab129-c865-4424-9a25-a077d83641bc",
+          "questionId": "cf44e7a6-35aa-4a5a-a0de-a798f6569648",
+          "value": "Kötü."
+        },
+        {
+          "id": "0b960499-8a26-4bbf-b2b9-44795f72f289",
+          "questionId": "15d7c0b2-f006-41d5-8b72-0ecf0c9358c7",
+          "value": "Saat"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userId": "e90a3c73-d60f-4141-b8a8-14c213a331ee",
+      "answers": [
+        {
+          "id": "b99e0162-b4e3-4b9d-b0c4-7c7700119da0",
+          "questionId": "61695b19-87cb-43b3-8501-dc947a0b2ab7",
+          "value": [
+            "Elma"
+          ]
+        },
+        {
+          "id": "27814a96-0d5c-4af8-b2b3-62b563963d94",
+          "questionId": "6daf814e-920e-4a6a-bd61-3495f8efacc1",
+          "value": "Basketbol"
+        },
+        {
+          "id": "c662033e-155f-4658-aa0f-bdd7c54d54a4",
+          "questionId": "fffa0673-3490-4be0-b30c-1cf30a3c7181",
+          "value": "Karışık."
+        },
+        {
+          "id": "71d1fc6c-721a-495b-abe0-3ba6da78707e",
+          "questionId": "cf44e7a6-35aa-4a5a-a0de-a798f6569648",
+          "value": "Bilmem."
+        },
+        {
+          "id": "02921174-8e53-4b97-9034-60cdcb889e4f",
+          "questionId": "15d7c0b2-f006-41d5-8b72-0ecf0c9358c7",
+          "value": "Araba Konsolu"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "userId": "485849ae-d447-44d8-89e1-4b442288dd9b",
+      "answers": [
+        {
+          "id": "7dd7edd1-7fca-4bb8-a3ec-83d84e78e66b",
+          "questionId": "61695b19-87cb-43b3-8501-dc947a0b2ab7",
+          "value": [
+            "Çilek",
+            "Muz",
+            "Portakal",
+            "Elma"
+          ]
+        },
+        {
+          "id": "df56c037-e1fa-456b-9897-51f65f83adbc",
+          "questionId": "6daf814e-920e-4a6a-bd61-3495f8efacc1",
+          "value": "Basketbol"
+        },
+        {
+          "id": "2b9adc8a-267f-469b-82a1-137119feb6e0",
+          "questionId": "fffa0673-3490-4be0-b30c-1cf30a3c7181",
+          "value": "Eh işte."
+        },
+        {
+          "id": "3880813b-0252-4b81-98ed-58a74f076502",
+          "questionId": "cf44e7a6-35aa-4a5a-a0de-a798f6569648",
+          "value": "Yaşamaya çalışıyoz."
+        },
+        {
+          "id": "12f2cef0-2628-4f82-88c3-cd3532a48b53",
+          "questionId": "15d7c0b2-f006-41d5-8b72-0ecf0c9358c7",
+          "value": "Telefon"
+        }
+      ],
+      "id": 3
+    },
+    {
+      "userId": "9f0423a6-b84f-4b08-a012-cbbef9e23e0e",
+      "answers": [
+        {
+          "id": "526c64bb-2c5a-4f79-aec1-18968da57181",
+          "questionId": "61695b19-87cb-43b3-8501-dc947a0b2ab7",
+          "value": [
+            "Çilek"
+          ]
+        },
+        {
+          "id": "522f8182-dc24-41be-8b42-bc69aab04387",
+          "questionId": "6daf814e-920e-4a6a-bd61-3495f8efacc1",
+          "value": "Bowling"
+        },
+        {
+          "id": "103c8aef-6b39-446d-8ce0-e6235c5cb8db",
+          "questionId": "fffa0673-3490-4be0-b30c-1cf30a3c7181",
+          "value": "İyi insanlar her zaman var."
+        },
+        {
+          "id": "9f20b6e0-cda0-4a16-bc0b-02bf4a918803",
+          "questionId": "cf44e7a6-35aa-4a5a-a0de-a798f6569648",
+          "value": "İş bulmaya çalışıyorum yani kötü."
+        },
+        {
+          "id": "8f19964f-7bea-446e-b89d-69a0e918f8ab",
+          "questionId": "15d7c0b2-f006-41d5-8b72-0ecf0c9358c7",
+          "value": "Araba Konsolu"
+        }
+      ],
+      "id": 4
+    }
+  ]
+}
